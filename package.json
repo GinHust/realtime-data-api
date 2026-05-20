@@ -1,0 +1,14 @@
+{
+  "name": "realtime-data-api",
+  "version": "1.0.0",
+  "description": "Simple persistent JSON API with real-time updates via Server-Sent Events.",
+  "main": "server.js",
+  "scripts": {
+    "import:csv": "node import-csv.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

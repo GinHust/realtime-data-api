@@ -1,0 +1,525 @@
+{
+  "source": {
+    "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+    "importedAt": "2026-05-20T03:37:12.784Z",
+    "rows": 27,
+    "columns": [
+      "Axis",
+      "Face",
+      "Pressure",
+      "%CH4",
+      "Power",
+      "Time",
+      "Growth rate"
+    ]
+  },
+  "items": [
+    {
+      "id": "436561c5-b4c8-4f3c-84fd-bff806a882e5",
+      "data": {
+        "Axis": 1,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 5,
+        "Time": 360,
+        "Growth rate": 3
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 2
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "37d95a25-083b-4943-b3f5-eb3f0d3f7dd9",
+      "data": {
+        "Axis": 0,
+        "Face": 0,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 5,
+        "Time": 360,
+        "Growth rate": 0.75
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 3
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "d1889711-abe0-40a6-a15a-018f094c1190",
+      "data": {
+        "Axis": 1,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 5,
+        "Time": 360,
+        "Growth rate": 4.42
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 4
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "e974b95c-cbc7-4985-a900-eda3e214691f",
+      "data": {
+        "Axis": 1,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 5,
+        "Time": 180,
+        "Growth rate": 3.236666667
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 5
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "b66331c3-6148-4fc3-8167-a4dec29fce36",
+      "data": {
+        "Axis": 1,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 5,
+        "Time": 180,
+        "Growth rate": 2.85
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 6
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "161711f5-cdda-4154-be47-ef901a68b75b",
+      "data": {
+        "Axis": 1,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 5,
+        "Time": 180,
+        "Growth rate": 3.606666667
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 7
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "444583dc-943a-4001-a35e-d22c0c9727cc",
+      "data": {
+        "Axis": 1,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 5,
+        "Time": 180,
+        "Growth rate": 3.243333333
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 8
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "4a4f2c3b-c727-487b-ba48-a8efd5da662f",
+      "data": {
+        "Axis": 1,
+        "Face": 0,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 5,
+        "Time": 180,
+        "Growth rate": 2.923333333
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 9
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "eadeddab-a443-48cd-aecb-dc63a85083e3",
+      "data": {
+        "Axis": 1,
+        "Face": 0,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 5,
+        "Time": 180,
+        "Growth rate": 4.376666667
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 10
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "f61d0bc6-b62f-48f8-b940-e4a6e55979ee",
+      "data": {
+        "Axis": 1,
+        "Face": 0,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 4,
+        "Time": 180,
+        "Growth rate": 3.376666667
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 11
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "b9dbac35-3147-4b1b-ba70-d4d16e6d36bd",
+      "data": {
+        "Axis": 1,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 4,
+        "Time": 180,
+        "Growth rate": 3.063333333
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 12
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "3bc5c56d-408d-406b-8185-7c15b9bb9089",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 4,
+        "Power": 5,
+        "Time": 30,
+        "Growth rate": 1.38
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 13
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "33e15aa0-55ca-4d7f-a487-7e5467f037a0",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 6,
+        "Power": 5,
+        "Time": 30,
+        "Growth rate": 4.32
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 14
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "7b778fa1-85e3-46c3-8540-4dd6e5ecd5a8",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 8,
+        "Power": 5,
+        "Time": 30,
+        "Growth rate": 6.8
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 15
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "9b56dd8d-4159-4e19-b2e8-9f7b80ef8986",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 10,
+        "Power": 5,
+        "Time": 30,
+        "Growth rate": 8.66
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 16
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "b8edf7bf-1b3f-4691-97d4-247ba754cd54",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 6,
+        "Power": 5,
+        "Time": 30,
+        "Growth rate": 4.32
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 17
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "57444685-468b-473c-9e27-6d62ddf1fcf1",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 6,
+        "Power": 5,
+        "Time": 60,
+        "Growth rate": 5.4
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 18
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "7445a760-18dc-4701-9f6c-dac275e4989b",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 6,
+        "Power": 5,
+        "Time": 180,
+        "Growth rate": 5.726666667
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 19
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "69590509-eb83-432a-85d3-a84d54fad932",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 6,
+        "Power": 5,
+        "Time": 300,
+        "Growth rate": 4.908
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 20
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "ee74e08d-8d24-4a75-a655-30aa85c1293b",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 120,
+        "%CH4": 6,
+        "Power": 5,
+        "Time": 600,
+        "Growth rate": 4.649
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 21
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "73212225-a47a-4188-bc5d-bf3bc5e6c4b2",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 100,
+        "%CH4": 6,
+        "Power": 3,
+        "Time": 60,
+        "Growth rate": 0.5
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 22
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "ac130092-455c-4ae0-96a0-39986298c5e8",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 100,
+        "%CH4": 6,
+        "Power": 3.5,
+        "Time": 60,
+        "Growth rate": 1.41
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 23
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "ce15c623-1464-49d7-9112-6782a4005069",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 100,
+        "%CH4": 6,
+        "Power": 4,
+        "Time": 60,
+        "Growth rate": 2.1
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 24
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "e85fd5b3-e719-4bac-931a-3fb64a42a9a9",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 100,
+        "%CH4": 6,
+        "Power": 4.5,
+        "Time": 60,
+        "Growth rate": 2.3
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 25
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "36943430-06cb-4a12-abed-531a152e5c35",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 80,
+        "%CH4": 6,
+        "Power": 4,
+        "Time": 60,
+        "Growth rate": 2.1
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 26
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "2294f4dc-2117-4049-9554-d5468b08f361",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 80,
+        "%CH4": 6,
+        "Power": 4.5,
+        "Time": 60,
+        "Growth rate": 2.3
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 27
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    },
+    {
+      "id": "d29c2a0b-e7bf-481b-8d23-a532187437f8",
+      "data": {
+        "Axis": 0,
+        "Face": 1,
+        "Pressure": 80,
+        "%CH4": 6,
+        "Power": 5,
+        "Time": 60,
+        "Growth rate": 2.7
+      },
+      "source": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "row": 28
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z",
+      "updatedAt": "2026-05-20T03:37:12.784Z"
+    }
+  ],
+  "updates": [
+    {
+      "id": "8fa24c94-8c14-48a2-b982-e41857f824cf",
+      "type": "dataset.imported",
+      "data": {
+        "file": "D:\\KICET\\Optuna\\PHYSBO\\PHYSBO+Input Physic\\DiamondGrowthHetero.csv",
+        "rows": 27,
+        "columns": [
+          "Axis",
+          "Face",
+          "Pressure",
+          "%CH4",
+          "Power",
+          "Time",
+          "Growth rate"
+        ]
+      },
+      "createdAt": "2026-05-20T03:37:12.784Z"
+    }
+  ],
+  "updatedAt": "2026-05-20T03:37:12.784Z"
+}

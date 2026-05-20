@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: realtime-data-api
+    runtime: docker
+    plan: free
+    envVars:
+      - key: DB_PATH
+        value: /var/data/data.json
+    disk:
+      name: realtime-data-api-data
+      mountPath: /var/data
+      sizeGB: 1
