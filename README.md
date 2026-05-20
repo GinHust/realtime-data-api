@@ -46,6 +46,8 @@ Khi deploy len hosting co persistent disk, dat bien moi truong:
 DB_PATH=/var/data/data.json
 ```
 
+Render free web service se sleep khi idle va khong co persistent disk. De chay 24/7 va giu du lieu update, dung paid instance type nhu `starter` voi persistent disk nhu file `render.yaml`.
+
 ## Import CSV
 
 ```powershell

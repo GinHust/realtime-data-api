@@ -2,7 +2,8 @@ services:
   - type: web
     name: realtime-data-api
     runtime: docker
-    plan: free
+    plan: starter
+    healthCheckPath: /health
     envVars:
       - key: DB_PATH
         value: /var/data/data.json
